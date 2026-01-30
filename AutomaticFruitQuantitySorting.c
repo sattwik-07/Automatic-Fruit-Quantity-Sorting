@@ -1,8 +1,3 @@
-/* merge_sort_fruits.c
-   Compile: gcc -o merge_sort_fruits merge_sort_fruits.c
-   Run: ./merge_sort_fruits
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
