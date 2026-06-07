@@ -80,3 +80,9 @@ Automatic-Fruit-Quantity-Sorting/
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 👤 Author
+
+Built by **Sattwik** — [GitHub](https://github.com/sattwik-07)
